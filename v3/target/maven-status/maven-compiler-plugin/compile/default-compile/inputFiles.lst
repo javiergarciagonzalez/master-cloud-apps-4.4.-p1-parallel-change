@@ -1,9 +1,0 @@
-/Users/javiergarciagonzalez/Documents/Master Cloud Apps/Materia/Modulo 4/4. Despliegue Continuo/Practica1/repo/v2/src/main/java/es/urjc/code/daw/library/rest/BookRestController.java
-/Users/javiergarciagonzalez/Documents/Master Cloud Apps/Materia/Modulo 4/4. Despliegue Continuo/Practica1/repo/v2/src/main/java/es/urjc/code/daw/library/book/Book.java
-/Users/javiergarciagonzalez/Documents/Master Cloud Apps/Materia/Modulo 4/4. Despliegue Continuo/Practica1/repo/v2/src/main/java/es/urjc/code/daw/library/DatabaseInitializer.java
-/Users/javiergarciagonzalez/Documents/Master Cloud Apps/Materia/Modulo 4/4. Despliegue Continuo/Practica1/repo/v2/src/main/java/es/urjc/code/daw/library/notification/NotificationService.java
-/Users/javiergarciagonzalez/Documents/Master Cloud Apps/Materia/Modulo 4/4. Despliegue Continuo/Practica1/repo/v2/src/main/java/es/urjc/code/daw/library/book/BookRepository.java
-/Users/javiergarciagonzalez/Documents/Master Cloud Apps/Materia/Modulo 4/4. Despliegue Continuo/Practica1/repo/v2/src/main/java/es/urjc/code/daw/library/web/BookWebController.java
-/Users/javiergarciagonzalez/Documents/Master Cloud Apps/Materia/Modulo 4/4. Despliegue Continuo/Practica1/repo/v2/src/main/java/es/urjc/code/daw/library/exceptions/BookNotFoundException.java
-/Users/javiergarciagonzalez/Documents/Master Cloud Apps/Materia/Modulo 4/4. Despliegue Continuo/Practica1/repo/v2/src/main/java/es/urjc/code/daw/library/Application.java
-/Users/javiergarciagonzalez/Documents/Master Cloud Apps/Materia/Modulo 4/4. Despliegue Continuo/Practica1/repo/v2/src/main/java/es/urjc/code/daw/library/book/BookService.java
